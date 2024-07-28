@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ayoor
-- 👀 I’m interested in ... HTML5, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP,JAVA,Android
-- 🌱 I’m currently learning ... Wordpress
-- 💞️ I’m looking to collaborate on ... Web Development Projects, also on Mobile Apps Development
-- 📫 How to reach me ... Twitter: @ay00r Email:gbengajohn4god@gmail.com
+- 👀 I’m interested in ... Flutter, Dart, UI/UX Design, Cross-Platform Mobile Development
+- 🌱 I’m currently learning ... Advanced Flutter techniques and Firebase integration
+- 💞️ I’m looking to collaborate on ... Flutter app development projects and open-source contributions
+- 📫 How to reach me ... Twitter: @ay00r Email: gbengajohn4god@gmail.com
 
 <!---
 Ayoor/Ayoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
